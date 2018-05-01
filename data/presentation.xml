@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="Display Screen Equipment Training" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{67794022-2D74-4078-9186-0B49CF7AB559}">
+<presentation title="Display Screen Equipment Training" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{22F79867-FD3B-4118-823D-E30C390E7937}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,7 +137,7 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="prompt"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="63434" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="63378" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -152,7 +152,7 @@
 			<text>SAFETY SERVICES
 Display Screen Equipment</text>
 		</slide>
-		<slide index="1" title="Introduction" titleNormalized="introduction" src="slide2.swf" size="39297" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="1" title="Introduction" titleNormalized="introduction" src="slide2.swf" size="39414" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -171,7 +171,7 @@ It is important that these workstations are set up correctly for each individual
 
 There are a number of known health risks that are associated with the use of computer workstations. You will have heard of cases of Repetitive Strain Injury, or RSI. These conditions are nowadays referred to as Work Related Upper Limb Disorders or WRULDs as they affect the arms and shoulders. You may have suffered from one of the conditions that come under this umbrella term yourself, or know a friend or colleague who has. In severe cases, these conditions can be severely disabling, resulting in individuals having to give up work.</text>
 		</slide>
-		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="32394" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="32406" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -192,7 +192,7 @@ Discomfort and pain are not necessarily indicators of harm. However, if you act 
 Please now read through ALL of the sections and complete the Course Test at the end.
 Introduction</text>
 		</slide>
-		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="62779" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="62780" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -209,7 +209,7 @@ Introduction</text>
 In many ways it was far-sighted law, as in the early 1990's far fewer people than today would have worked with computers and very few would have worked with them for significant periods.
 Legislation</text>
 		</slide>
-		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="128377" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="128281" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -226,7 +226,7 @@ Legislation</text>
 There are some minimum requirements for a display screen workstation and these can be found here. However, these are the minimum requirements and your workstation also needs to be assessed for its suitability for you.
 Legislation</text>
 		</slide>
-		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="34303" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="34349" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -243,7 +243,7 @@ Legislation</text>
 A chair such as this in the photograph is not suitable for a computer workstation. The seat is not adjustable in height, its backrest is not adjustable, it does not swivel and it does not have casters - so it does not provide easy freedom of movement.
 Introduction</text>
 		</slide>
-		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="35254" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="35066" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -260,7 +260,7 @@ Introduction</text>
 Your chair should have a stable 5 star base.
 Your Chair</text>
 		</slide>
-		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="41849" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="41839" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -279,7 +279,7 @@ Adjusting this chair it is just a matter of releasing a locking wheel at the bas
 Your chair may have a different adjusting arrangement. The chair manufacturer will have provided instructions on how your chair can be adjusted. If you have problems adjusting your chair please ask for help.
 Adjust Your Chair Back Height</text>
 		</slide>
-		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="31088" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="31041" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -296,10 +296,10 @@ Adjust Your Chair Back Height</text>
 The preferred suppliers of office furniture for the University can be found on the Finance intranet pages.
 Adjust Your Chair Back Height</text>
 		</slide>
-		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="289816" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="289815" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video0" videoClipId="ispring.resources_c790d70.spr0_88164453" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_c790d70.spr2_88164453" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video0" videoClipId="ispring.resources_30466fd0.spr0_89431781" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_30466fd0.spr2_89431781" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -312,10 +312,10 @@ Adjust Your Chair Back Height</text>
 			<notesHtml/>
 			<text>Adjust Your Chair Back Height - Video</text>
 		</slide>
-		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="336612" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="336602" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video1" videoClipId="ispring.resources_1d5ae9d0.spr0_88165296" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d5ae9d0.spr2_88165296" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_30466cd0.spr0_89432375" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_30466cd0.spr2_89432375" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -328,7 +328,7 @@ Adjust Your Chair Back Height</text>
 			<notesHtml/>
 			<text>Adjust Your Backrest - Video</text>
 		</slide>
-		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="55306" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="55332" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -347,10 +347,10 @@ Your forearms and wrists should be approximately horizontal at the keying positi
 If you have the seat too high or too low, your wrists will be flexed - this may be tiring and result in discomfort. 
 Adjust Your Seat Height</text>
 		</slide>
-		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="353828" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="353781" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video2" videoClipId="ispring.resources_1d5b6010.spr0_88166078" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d5b6010.spr2_88166078" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video2" videoClipId="ispring.resources_30466850.spr0_89433187" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_30466850.spr2_89433187" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -363,7 +363,7 @@ Adjust Your Seat Height</text>
 			<notesHtml/>
 			<text>Adjust Your Backrest - Video</text>
 		</slide>
-		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="104380" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="104366" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -382,7 +382,7 @@ If you have difficulty retaining your back's position in the backrest due to gra
 The front of the seat should have a rolled edge. This avoids pressure on the backs of your legs.
 Footrests</text>
 		</slide>
-		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="52695" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="52682" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -399,7 +399,7 @@ Footrests</text>
 Do not let it become such a store for office items that your legs are constrained from being able to move freely. Some of the old writing desks have narrow gaps between their drawer units - for many people these do not provide sufficient leg room.
 Clutter and Legroom</text>
 		</slide>
-		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="179171" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="179154" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -418,10 +418,10 @@ Have the screen at a distance from you that you find comfortable - some people f
 Having the screen at about your arms length is a comfortable distance for many people.
 What's on Your Desk - Positioning the Monitor</text>
 		</slide>
-		<slide index="16" title="Adjust the Height and Angle" titleNormalized="adjust the height and angle" src="slide17.swf" size="178620" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="16" title="Adjust the Height and Angle" titleNormalized="adjust the height and angle" src="slide17.swf" size="178579" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video3" videoClipId="ispring.resources_24dc8550.spr0_88167328" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24dc8550.spr2_88167328" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_30467450.spr0_89434406" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_30467450.spr2_89434406" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -438,10 +438,10 @@ Ideally, the top of the screen should be at the same height as your eyes. Your e
 Adjust the screen angle to face you - this is particularly important with some of the larger screens that some people have these days. We have had a user who reported feeling queasy at the end of the day after regularly using a large screen - the screen was too vertical and the problem was solved by simply angling it to face him.
 Adjust the Height and Angle</text>
 		</slide>
-		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="452613" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="452604" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video4" videoClipId="ispring.resources_24cbc1b8.spr0_88167843" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24cbc1b8.spr2_88167843" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video4" videoClipId="ispring.resources_2512fbe0.spr0_89434875" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2512fbe0.spr2_89434875" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -454,7 +454,7 @@ Adjust the Height and Angle</text>
 			<notesHtml/>
 			<text>Adjust the Height and Angle - Video</text>
 		</slide>
-		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="31686" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="31704" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -473,7 +473,7 @@ You may have difficulty focusing, causing you to lean forward or bend your head 
 When using a computer, you are looking at a screen that is a fairly low level light source. You do not want to be trying to concentrate on that screen in either too bright a light environment or too low a light environment.
 Your Environment- Artificial Lighting</text>
 		</slide>
-		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="24766" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="24804" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -491,7 +491,7 @@ Lighting can be improved by using a local light source such as an anglepoise lam
 
 However, these are not without problems as you are bringing a bright light source close to you. Be careful not to have the bulb of such a unit within your eyesight while working - also be wary of causing yourself glare problems from light from such lamps reflecting off the desk surface or papers. Often one can best illuminate a workstation by reflecting light into the workstation from another source, such as a back wall.</text>
 		</slide>
-		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="76080" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="76113" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -508,7 +508,7 @@ However, these are not without problems as you are bringing a bright light sourc
 Direct sunlight falling on to your desk and reflecting off the surface will also be too bright a light source. If the office you are working in is adversely impacted by sunlight ingress, you should be provided with adjustable blinds on the window to control the sunlight coming in.
 Avoiding Natural Light and Glare</text>
 		</slide>
-		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="85517" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="85188" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -525,7 +525,7 @@ Avoiding Natural Light and Glare</text>
 Adjusting the brightness of your monitor with changing light conditions can improve visual comfort - also keep the screen clean using cleaning materials recommended by the monitor manufacturer.
 Avoiding Natural Light and Glare</text>
 		</slide>
-		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="100157" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="100198" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -542,7 +542,7 @@ Avoiding Natural Light and Glare</text>
 Unless you have a medical condition that can be exacerbated by high temperatures, you are unlikely to be harmed by trying to work in temperatures a few degrees above 30°C - however what you are unlikely to be doing is working much at all. You might as well be sent home.
 Temperature</text>
 		</slide>
-		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="98657" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="98619" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -561,7 +561,7 @@ Even at relatively mild temperatures, an office can feel thermally uncomfortable
 A fan obviously cannot reduce the temperature, but by causing air movement past the surface of your skin it increases the rate of evaporation of moisture causing a cooling effect. A fan really will make a difference when the summer comes.
 Temperature</text>
 		</slide>
-		<slide index="24" title="" titleNormalized="" src="slide25.swf" size="42865" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="24" title="" titleNormalized="" src="slide25.swf" size="42855" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -578,7 +578,7 @@ Temperature</text>
 What you really need to do is stand up and stretch and reposition yourself back in the seat in a comfortable position, and this is what you need to do at your computer workstation. It is usually recommended that every 25 to 30 minutes get up out of your chair, stretch and reseat yourself. Some of you will be in the types of jobs where you rarely get 20 minutes when you are not disturbed from your desk - so you will not have to worry about this.
 Posture and Rest Breaks</text>
 		</slide>
-		<slide index="25" title="" titleNormalized="" src="slide26.swf" size="86288" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="25" title="" titleNormalized="" src="slide26.swf" size="86196" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -597,7 +597,7 @@ Even between rest breaks it is important to rest your eyes.
 Try and look away from the screen every 3 or 4 minutes at something distant, so that your eyes are not constantly focusing on the screen. 
 Posture and Rest Breaks</text>
 		</slide>
-		<slide index="26" title="" titleNormalized="" src="slide27.swf" size="78040" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="26" title="" titleNormalized="" src="slide27.swf" size="78317" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -616,7 +616,7 @@ The University will reimburse you the cost of the eye test and - if, as a result
 The eye test procedures for display screen equipment users can usually be found on the Human Resources intranet site and also on the Safety Services site.
 Eye Tests</text>
 		</slide>
-		<slide index="27" title="" titleNormalized="" src="slide28.swf" size="79787" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="27" title="" titleNormalized="" src="slide28.swf" size="79378" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -634,7 +634,7 @@ Laptops also cause manual handling problems, if you move them around a lot. Beca
 
 The use of a properly designed laptop backpack can address this problem.</text>
 		</slide>
-		<slide index="28" title="" titleNormalized="" src="slide29.swf" size="72626" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="28" title="" titleNormalized="" src="slide29.swf" size="72464" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -651,7 +651,7 @@ The use of a properly designed laptop backpack can address this problem.</text>
 If you notice discomfort, please do not ignore it.
 General Information and Occupational Health</text>
 		</slide>
-		<slide index="29" title="" titleNormalized="" src="slide30.swf" size="64716" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="29" title="" titleNormalized="" src="slide30.swf" size="64697" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -668,7 +668,7 @@ General Information and Occupational Health</text>
 If you do feel that you have such a problem, please email one of the Occupational Health Advisers - they can come and assess your workstation and advise your school or department on what measures of additional equipment may be needed to address your workstation problems.
 General Information and Occupational Health</text>
 		</slide>
-		<slide index="30" title="" titleNormalized="" src="slide31.swf" size="38077" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="30" title="" titleNormalized="" src="slide31.swf" size="38036" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -685,7 +685,7 @@ General Information and Occupational Health</text>
 Run through the form and identify any deficiencies that your computer workstation has. When you have completed the form, please give one copy to your line manager (who may need to take action if, for example, any new equipment needs purchasing or your workstation needs moving) and also give one copy to your local Display Screen Assessor. 
 Self-Assessment of Your Workstation</text>
 		</slide>
-		<slide index="31" title="" titleNormalized="" src="slide32.swf" size="38219" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="31" title="" titleNormalized="" src="slide32.swf" size="38215" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -704,7 +704,7 @@ The Display Screen Assessor can also help you carry out the assessment of your w
 You may also like to try the following course provided by Learning Link. 
 Self-Assessment of Your Workstation</text>
 		</slide>
-		<quiz index="32" title="" titleNormalized="" src="quiz1.swf" size="1148718" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="" embedded="0">
+		<quiz index="32" title="" titleNormalized="" src="quiz1.swf" size="1148712" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="" embedded="0">
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
@@ -723,7 +723,7 @@ Self-Assessment of Your Workstation</text>
 				</finishAction>
 			</quizBranching>
 		</quiz>
-		<slide index="33" title="" titleNormalized="" src="slide34.swf" size="44563" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="33" title="" titleNormalized="" src="slide34.swf" size="44530" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
